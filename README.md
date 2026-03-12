@@ -29,6 +29,6 @@ The analysis is based on the following key metrics and dimensions:
 ## 🔗 View the Project
 * **Interactive Dashboard:** [Click here to view the live dashboard on Looker Studio](https://lookerstudio.google.com/s/ihBkSpt4wek)
 * **Static View:** You can also view the high-resolution PDF/Image of the dashboard in the repository files.
-![FMCG-Sales-Profitability-Dashboard](page_1.png)
+![FMCG-Sales-Profitability-Dashboard](Dashboard.png)
 ---
 *This project is part of my Data Analysis Portfolio, focusing on Business Intelligence and Sales Analytics.*
